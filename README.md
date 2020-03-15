@@ -1,13 +1,10 @@
-<center>
-   <h1>Atividades de Nivelamento - Linux</h1>
-   <p>UNIVERSIDADE FEDERAL DO PARÁ</p>
-   <p>COORDENADORIA DE SEGURANÇA DE INFORMAÇÃO E COMUNICAÇÃO</p>
-</center>
-<div style="display: flex; justify-content: center">   
-   <img src="https://portal.ufpa.br/images/icones_portal/ufpa (2).png" height="70px">
-   <img src="https://csirt.ufpa.br/images/ctic1112.png" height="70px">
-</div>
-
+<h1 align="center">Atividades de Nivelamento - Linux</h1>
+<p align="center">UNIVERSIDADE FEDERAL DO PARÁ</p>
+<p align="center">COORDENADORIA DE SEGURANÇA DE INFORMAÇÃO E COMUNICAÇÃO</p>
+<p align="center">
+<img src="https://portal.ufpa.br/images/icones_portal/ufpa (2).png" height="70px">
+<img src="https://csirt.ufpa.br/images/ctic1112.png" height="70px">
+</p>
 ## Introdução
 
 As atividades estão divididas em 3 partes, cada uma com a finalidade de desenvolver e testar suas habilidades na solução de problemas, que ~~sempre temos~~ venham a fazer o ambiente não funcionar da forma devida. Importante ressaltar que os sistemas sempre estão em desenvolvimento, e recomendamos fazer as atividades com suas versões mais recentes. A par disso, saiba que pode encontrar "tutoriais" que podem não satisfazer sua necessidade, por está defasado, e cabe a você encontrar a solução, nesses casos é interessante que comunique tais mudanças para atualizarmos nossa lista de atividades e procedimentos ~~em nossa área isso é de suma importância~~.
