@@ -1,15 +1,11 @@
-<div style="font-family: monospace">
-  <div style="text-align: center;">
-    <h1>Atividades de Nivelamento - Linux</h1>
-  </div>
-  <div style="display: flex; justify-content: center; align-items: center; ">
-    <img src="https://portal.ufpa.br/images/icones_portal/ufpa (2).png" height="50px">
-    <p>UNIVERSIDADE FEDERAL DO PARÁ</p>
-  </div>
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://csirt.ufpa.br/images/ctic1112.png" height="50px">
-    <p>COORDENADORIA DE SEGURANÇA DE INFORMAÇÃO E COMUNICAÇÃO</p>
-  </div>
+<center>
+   <h1>Atividades de Nivelamento - Linux</h1>
+   <p>UNIVERSIDADE FEDERAL DO PARÁ</p>
+   <p>COORDENADORIA DE SEGURANÇA DE INFORMAÇÃO E COMUNICAÇÃO</p>
+</center>
+<div style="display: flex; justify-content: center">   
+   <img src="https://portal.ufpa.br/images/icones_portal/ufpa (2).png" height="70px">
+   <img src="https://csirt.ufpa.br/images/ctic1112.png" height="70px">
 </div>
 
 ## Introdução
