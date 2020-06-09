@@ -10,8 +10,6 @@
 
 As atividades estão divididas em 3 partes, cada uma com a finalidade de desenvolver e testar suas habilidades na solução de problemas, que ~~sempre temos~~ venham a fazer o ambiente não funcionar da forma devida. Importante ressaltar que os sistemas sempre estão em desenvolvimento, e recomendamos fazer as atividades com suas versões mais recentes. A par disso, saiba que pode encontrar "tutoriais" que podem não satisfazer sua necessidade, por está defasado, e cabe a você encontrar a solução, nesses casos é interessante que comunique tais mudanças para atualizarmos nossa lista de atividades e procedimentos ~~em nossa área isso é de suma importância~~.
 
-Depois de tanto sermão, **vamos ao que interessa**.
-
 Na **parte 1**, requeremos um conhecimento básico sobre redes e ~~hypervisors~~ softwares de virtualização, recomendamos o [Virtualbox](https://www.virtualbox.org/) por sua simplicidade, eficiência e facilidade de operação.
 
 Caso, já tenha conhecimento/prática sobre algum outro software do gênero use-o ~~tempo é dinheiro~~. No entanto saiba que nosso suporte, caso precise e envolva problemas com o software de virtualização é voltado ao virtualbox.
@@ -52,7 +50,7 @@ As atividades estão ordenadas de forma que acreditamos ser mais fácil assimila
    - https://wiki.ctic.ufpa.br/index.php/Criar_e_publicar_chaves_PGP
    - https://wiki.ctic.ufpa.br/index.php/Enviando_e-mail_criptografado
 
-6. Criar, na VM1, uma partição e formatar e compartilhar via NFS com a VM2.
+6. Criar na VM1 uma partição, formatar e compartilha-la via NFS com a VM2.
 
 7. Transferir arquivos via scp e rsync entre as VMs
    1. Entender o funcionamento desses métodos e suas aplicações.
@@ -72,4 +70,5 @@ As atividades estão ordenadas de forma que acreditamos ser mais fácil assimila
 
 4. Criar arquivos (ex: .txt ou .html) dentro do repositório local e depois enviar para o gerenciador de repositório na nuvem.
 
-5. Clonar, modificar e enviar as modificações o gerenciador. 
+5. Clonar, modificar e enviar as modificações para o gerenciador.
+
